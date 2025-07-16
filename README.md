@@ -24,7 +24,7 @@ Este proyecto backend ofrece una API para manejar cervezas, usuarios, roles y en
 - Spring Boot 3.x
 - Maven
 - JPA / Hibernate
-- H2 (para pruebas en local, cambiar a base de datos real para producción)
+- MySQL (local para desarrollo)
 - Spring Security
 - JavaMailSender
 
