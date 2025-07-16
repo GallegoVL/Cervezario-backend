@@ -20,8 +20,8 @@ Este proyecto backend ofrece una API para manejar cervezas, usuarios, roles y en
 
 ## Tecnologías
 
-- Java 17
-- Spring Boot 3.x
+- Java 21
+- Spring Boot 3.4.4
 - Maven
 - JPA / Hibernate
 - MySQL (local para desarrollo)
